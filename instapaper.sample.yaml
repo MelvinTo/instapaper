@@ -1,0 +1,9 @@
+oauth:
+    consumer_key: ""
+    consumer_secret: ""
+account:
+    username: ""
+    password: ""
+setting:
+    range: 31536000 # 60 * 60 * 24 * 365, one year
+    limit: 5    
